@@ -1,0 +1,5 @@
+name: form basic
+description: Basic form registration
+core: 8.x
+package: Custom
+type: module
