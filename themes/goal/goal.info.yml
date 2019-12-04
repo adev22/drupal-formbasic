@@ -1,0 +1,5 @@
+name: Goal
+type: theme
+description: 'Goal Goal'
+package: Custom
+core: 8.x

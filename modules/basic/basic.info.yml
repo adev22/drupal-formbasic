@@ -1,5 +1,6 @@
-name: form basic
-description: Basic form registration
-core: 8.x
+name: basic form
+description: Basic Form Page.
 package: Custom
+
 type: module
+core: 8.x
